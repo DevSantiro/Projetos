@@ -1,0 +1,1 @@
+Esse é um diretório do qual desenvolverei vários projetos como treino! 
